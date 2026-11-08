@@ -22,7 +22,7 @@ export const DEFAULT_SETTINGS: WebsiteSettings = {
   contactWhatsApp: '+92 327-7993368',
   creativeEmail: 'awanexus.association@gmail.com',
   educationEmail: 'awanexus.education@gmail.com',
-  academyPlatformUrl: 'https://awan-academy-edueducation.base44.app',
+  academyPlatformUrl: 'https://awan-academy.base44.app',
   workingDays: 'Monday – Saturday',
   workingHours: '09:00 AM – 09:00 PM PKT',
   acceptingOrders: true,
