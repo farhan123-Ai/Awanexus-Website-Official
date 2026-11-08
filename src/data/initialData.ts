@@ -779,7 +779,7 @@ export const SAMPLE_PROJECTS: PortfolioProject[] = [
     category: 'AI & Web',
     description: 'Official educational platform built for Awan Academy connecting students, notes, papers, and assessments.',
     tags: ['Web Platform', 'Education', 'Online Learning', 'React'],
-    liveUrl: 'https://awan-academy-edueducation.base44.app',
+    liveUrl: 'https://awan-academy.base44.app',
     isFeatured: true,
     metrics: 'Active online platform with notes, guess papers, and quiz resources',
   },
